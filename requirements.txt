@@ -1,0 +1,13 @@
+# Core data science libraries
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Forecasting
+prophet
+
+# Dashboard
+streamlit
+plotly
